@@ -1,0 +1,7 @@
+Libraries required:
+
+tkinter
+pandas
+sklearn
+pandastable
+matplotlib
